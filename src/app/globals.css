@@ -24,15 +24,3 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
-
-/* ---- Start of Pottery Studio Custom Styles ---- */
-
-/* (Paste your entire styles.css content here) */
-header {
-  background-color: #7c4e3f;
-  /* ... */
-}
-
-/* (Continue with the rest of your pottery styles) */
-
-/* ---- End of Pottery Studio Custom Styles ---- */
